@@ -19,7 +19,8 @@ This Project is inspired by Mo Chen’s Coffee Sales Dashboard.
 
 ## Data Set:
 Name: Coffee Orders Data
-<b></b>
+<b>
+</b>
 This Excel workbook, contains three datasets, Orders, Customers and Products. 
 
 # Data Gathering
