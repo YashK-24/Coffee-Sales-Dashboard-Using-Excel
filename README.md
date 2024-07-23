@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard-Using-Excel
+# Coffee Sales Dashboard Using Excel
 This Project is inspired by Mo Chen’s Coffee Sales Dashboard.
 ## Data Set:
 Name: Coffee Orders Data
@@ -55,9 +55,14 @@ Sales and Unit Price columns:
 Convert the values in these columns to currency format.
 
 ![alt text](images/Salesdollars.jpg)
-<b></b>
-![alt text](images/UnitPricedollars.jpg)
+<b>
+</b>
+<b>
+</b>
 
+![alt text](images/UnitPricedollars.jpg)
+<b>
+</b>
 Create a “Coffee Type Name” to store the full name of the coffee type. We will use "**IFS**" statement here.
 
 ![alt text](images/CoffeeTypeFullName.jpg)
