@@ -20,7 +20,7 @@ We will use **VLOOKUP** once again to populate the email column.
 
 We can see that the Email column contains the value “0”, for the missing values. To solve this problem, we use the “**IF**” statement. 
 
-![alt text](images/images/EmailIFVLOOKUP.jpg)
+![alt text](images/EmailIFVLOOKUP.jpg)
 
 The Email column looks a bit nicer now.
 
@@ -56,7 +56,7 @@ Convert the values in these columns to currency format.
 
 ![alt text](images/Salesdollars.jpg)
 <b></b>
-![alt text](UnitPricedollars.jpg)
+![alt text](images/UnitPricedollars.jpg)
 
 Create a “Coffee Type Name” to store the full name of the coffee type. We will use "**IFS**" statement here.
 
