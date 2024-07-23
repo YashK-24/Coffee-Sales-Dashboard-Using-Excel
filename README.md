@@ -1,5 +1,22 @@
 # Coffee Sales Dashboard Using Excel
 This Project is inspired by Mo Chen’s Coffee Sales Dashboard.
+
+# Table of Contents
+1. [Data Set](#data-set)
+2. [Data Gathering](#data-gathering)
+    * [Customer Sheet](#customer-sheet)
+    * [Product Sheet](#product-sheet)
+3. [Data Cleaning](#data-cleaning)
+    * [Data Formatting](#date-formatting)
+4. [Pivot Tables](#pivot-tables)
+    * [Total Sales Over Time](#total-sales-over-time)
+    * [Total Sales vs Country](#total-sales-vs-country)
+    * [Top 5 Customers](#top-5-customers)
+    * [Coffee Type Popularity Share](#coffee-type-popularity-share)
+5. [Dashboard](#dashboard)
+<b>
+</b>
+
 ## Data Set:
 Name: Coffee Orders Data
 This Excel workbook, contains three datasets, Orders, Customers and Products. 
@@ -75,7 +92,7 @@ The values in this column only contain value but we want it to show the unit “
 After cleaning the Orders Data, press “Ctrl” + t, to convert the Orders sheet into a table. By converting it into a table, the data will automatically get updated if new data is added.
 
 # Pivot Tables
-1.	Total Sales Over Time 
+## Total Sales Over Time 
 
 ![alt text](images/TotalSalesOverTime.jpg)
 
@@ -86,7 +103,7 @@ Select the entire table and click on the “PivotTable Analyze” Ribbon, select
 
 ![alt text](images/TotalSalesOverTimegraph.jpg)
 
-2.	Total Sales vs Country
+## Total Sales vs Country
 
 ![alt text](images/TotalSalesOverCountry.jpg)
 
@@ -94,13 +111,13 @@ The “Country” column is selected as rows and “Sum of Sales” is selected 
 
 ![alt text](images/TotalSalesOverCountrygraph.jpg)
 
-3.	Top 5 Customers
+## Top 5 Customers
 
 Similarly, create a bar chart for top 5 customers.
 
 ![alt text](images/Top5CustomersGraph.jpg)
 
-4.	Coffee Type Popularity Share
+## Coffee Type Popularity Share
 
 ![alt text](images/CoffeePopularityShare.jpg)
 
